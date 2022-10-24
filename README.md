@@ -1,4 +1,6 @@
 # Cifrado
+##n Introducción
+Aqui conoceremos dos códigos de cifrado que se usaron a lo largo de la historia.
 ## Contenidos
 - [Codigo Enigma](enigma.md)
 

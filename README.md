@@ -1,6 +1,6 @@
 # Cifrado
 ## Contenidos
-- [Polybos](polybos.md)
+- [Polybios](polybios.md)
 
 ## Referencias
 

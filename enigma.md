@@ -7,3 +7,4 @@ Las principales razones para su implantación fueron su robustez criptográfica 
 Por ejemplo, el alfabeton original es;  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z. Sin embargo este alfabeto era sustituido por el siguiente; M O N P A T Z C R D Y U H W G I B V S Q E K X L F J, de manera que si quisieramos poner un ejemplo seria: NMVM que significa CASA, coincidiendo con la posición de las letras en ambos alfabetos.
 ## Imágenes
 ![image](enigma.png)
+![image](enigma2.png)

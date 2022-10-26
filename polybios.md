@@ -7,4 +7,5 @@ BBAECCABAEDDAA ADAEEA BCBDDCDDCDDBBDAA ADAE CAAA ACDBBDCEDDCDBBDBAABABDAA CBAEDD
 Esto signfificaría:
 Genbeta Dev Historia de la criptografia Metodo usado por los griegos
 ## Imagen
-![image](polybios.png)
+![image](pilybios.png)
+![image](polybios2.png)

@@ -8,4 +8,3 @@ Este sistema es el primer cifrado por sustitución de caracteres. Se atribuye la
 - Genbeta Dev Historia de la criptografia Metodo usado por los griegos
 ## Imagen
 ![image](pilybios.png)
-![image](polybios2.png)
